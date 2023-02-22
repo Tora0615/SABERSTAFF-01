@@ -38,17 +38,23 @@ The ARGB light rod made with attiny85 and 433 mhz wireless module. It solves the
 ![](./Pictures/PCB%20Design/circuit.png)
 
 ### PCB Design in 2D
-<img src="./Pictures/PCB%20Design/2D-01.png"  width="47.3%">
-<img src="./Pictures/PCB%20Design/2D-02.png"  width="49%">
+<p float="left">
+<img src="./Pictures/PCB%20Design/2D-01.png"  width="46.3%">
+<img src="./Pictures/PCB%20Design/2D-02.png"  width="48%">
+</p>
 
 ### PCB Design in 3D
+<p float="left">
 <img src="./Pictures/PCB%20Design/3D-01.png"  width="49%">
 <img src="./Pictures/PCB%20Design/3D-02.png"  width="48%">
+</p>
 
 ### Real PCB 
+<p float="left">
 <img src="./Pictures/PCB%20Design/real0.jpg"  width="44.4%">
 <img src="./Pictures/PCB%20Design/real1.jpg"  width="25%">
 <img src="./Pictures/PCB%20Design/real2.jpg"  width="25%">
+</p>
 
 ## Software
 
@@ -79,18 +85,24 @@ In 2020, the first design was born. It made up of metal rod, plastic bottle and 
 Although the orignal design is beautiful, it is actually heavy and fragile. Often, I need to spend a lot of time to fix it. So the new design is needed. Pictures below is the orignal verion.
 
 ### The First design
-
+<p float="left">
 <img src="./Pictures/PCB%20Design/TheBeginning/d1.jpg"  width="30%">
 <img src="./Pictures/PCB%20Design/TheBeginning/d2.jpg"  width="19%">
 <img src="./Pictures/PCB%20Design/TheBeginning/d3.jpg"  width="19%">
 <img src="./Pictures/PCB%20Design/TheBeginning/d4.jpg"  width="30%">
+</p>
 
 ### The finished product
+<p float="left">
 <img src="./Pictures/PCB%20Design/TheBeginning/finished.jpg"  width="40%">
+</p>
 
 ### The Show 
+<p float="left">
 <img src="./Pictures/PCB%20Design/TheBeginning/show.jpg"  width="70%">
+</p>
 
 ### How it broke
+<p float="left">
 <img src="./Pictures/PCB%20Design/TheBeginning/broke.jpg"  width="40%">
-
+</p>
