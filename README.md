@@ -56,6 +56,11 @@ The ARGB light rod made with attiny85 and 433 mhz wireless module. It solves the
 <img src="./Pictures/PCB%20Design/real2.jpg"  width="25%">
 </p>
 
+### The finished product
+
+![fire](https://user-images.githubusercontent.com/33981880/220835164-627d2107-bc77-4530-b336-3fdc940f56df.gif)
+
+
 ## Software
 
 * Folder - PcControlArduino
